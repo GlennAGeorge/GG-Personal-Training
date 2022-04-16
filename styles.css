@@ -78,14 +78,11 @@
 #id1:hover {
   background-color: #10C71F;
 }
-
-.right {
-float: right;
-width: 300px;
-border: 3px solid #73AD21;
-padding: 10px;
+/* Section 2 (Article) use article for the purpose of different background-color for this section */
+.article {
+background-color: green;
+text-align: center;
 }
-
 .column {
 text-align: center;
 float: left;
